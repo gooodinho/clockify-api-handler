@@ -8,5 +8,5 @@
 4. Install Python and install all modules from `requirements.txt` file. --> `pip install -r requirements.txt`
 5. Run `main.py` file and check info about all your time-entries in terminal.
 
-## When main.py is running
+## When `main.py` is running
 Type "1" or "2" to output the relevant data to the terminal.
